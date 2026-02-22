@@ -175,10 +175,11 @@ Contributions and suggestions are welcome!
 
 ---
 
-## 👨‍💻 Author
+## 👩‍💻 Author
 
-**Rashi**
+**Rashi**  
 Deep Learning & Machine Learning Enthusiast 🚀
+
 
 ---
 
